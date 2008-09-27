@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>0A1AB911-0712-4744-B4CF-4E3EE5F7780B</string>
+			<string>92D618B5-42BB-4BE7-B031-518C683CCEB0</string>
+			<string>2A5831B3-2AD2-4580-A670-FF5481703B7B</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>0A1AB911-0712-4744-B4CF-4E3EE5F7780B</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>A9DEB49E-545B-4696-BAE2-2243CDC927C5</string>
+				</array>
+				<key>name</key>
+				<string>Users</string>
+			</dict>
+			<key>2A5831B3-2AD2-4580-A670-FF5481703B7B</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>EE7DADD5-4963-4D3C-96A1-D1739F779039</string>
+				</array>
+				<key>name</key>
+				<string>Logging</string>
+			</dict>
+			<key>92D618B5-42BB-4BE7-B031-518C683CCEB0</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>087D9DB7-AAF3-4927-8400-CACEA914B84B</string>
+					<string>990E225C-207B-4CF5-BED5-94415501F77D</string>
+					<string>596D959D-8BF1-4146-A4D9-D3AC198B6AB4</string>
+				</array>
+				<key>name</key>
+				<string>Imports</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>name</key>
+	<string>Google App Engine</string>
+	<key>ordering</key>
+	<array>
+		<string>A9DEB49E-545B-4696-BAE2-2243CDC927C5</string>
+		<string>087D9DB7-AAF3-4927-8400-CACEA914B84B</string>
+		<string>990E225C-207B-4CF5-BED5-94415501F77D</string>
+		<string>596D959D-8BF1-4146-A4D9-D3AC198B6AB4</string>
+		<string>EE7DADD5-4963-4D3C-96A1-D1739F779039</string>
+	</array>
+	<key>uuid</key>
+	<string>563E6066-89B1-40B9-B32B-499DFFFF421F</string>
+</dict>
+</plist>

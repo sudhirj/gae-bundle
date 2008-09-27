@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>from google.appengine.ext import db</string>
+	<key>name</key>
+	<string>Import DB</string>
+	<key>scope</key>
+	<string>source.python</string>
+	<key>tabTrigger</key>
+	<string>import</string>
+	<key>uuid</key>
+	<string>990E225C-207B-4CF5-BED5-94415501F77D</string>
+</dict>
+</plist>

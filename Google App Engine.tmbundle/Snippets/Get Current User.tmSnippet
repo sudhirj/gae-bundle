@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>users.get_current_user()</string>
+	<key>name</key>
+	<string>Get Current User</string>
+	<key>scope</key>
+	<string>source.python</string>
+	<key>tabTrigger</key>
+	<string>gcu</string>
+	<key>uuid</key>
+	<string>A9DEB49E-545B-4696-BAE2-2243CDC927C5</string>
+</dict>
+</plist>
