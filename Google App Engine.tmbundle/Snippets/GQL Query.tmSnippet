@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>from google.appengine.ext import db
-from google.appengine.api import users
-from google.appengine.api import memcache</string>
+	<string>${1:query} = db.GqlQuery("SELECT * FROM ${2:model} WHERE ${3:key} = :${4:key} "
+                    	  "ORDER BY ${5:field} DESC",
+                          $4='${6:key}')</string>
 	<key>name</key>
-	<string>Import All</string>
+	<string>GQL Query</string>
 	<key>scope</key>
 	<string>source.python</string>
 	<key>tabTrigger</key>
-	<string>import</string>
+	<string>query</string>
 	<key>uuid</key>
-	<string>087D9DB7-AAF3-4927-8400-CACEA914B84B</string>
+	<string>D38EC4EA-A824-49D2-BB19-74A6C5621CDB</string>
 </dict>
 </plist>

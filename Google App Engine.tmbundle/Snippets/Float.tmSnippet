@@ -3,16 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>from google.appengine.ext import db
-from google.appengine.api import users
-from google.appengine.api import memcache</string>
+	<string>db.FloatProperty()</string>
 	<key>name</key>
-	<string>Import All</string>
+	<string>Float</string>
 	<key>scope</key>
 	<string>source.python</string>
 	<key>tabTrigger</key>
-	<string>import</string>
+	<string>prop</string>
 	<key>uuid</key>
-	<string>087D9DB7-AAF3-4927-8400-CACEA914B84B</string>
+	<string>90EC1F9E-F11A-485B-B1DF-BAAB7C65C214</string>
 </dict>
 </plist>

@@ -3,16 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>from google.appengine.ext import db
-from google.appengine.api import users
-from google.appengine.api import memcache</string>
+	<string>db.BooleanProperty()</string>
 	<key>name</key>
-	<string>Import All</string>
+	<string>Boolean</string>
 	<key>scope</key>
 	<string>source.python</string>
 	<key>tabTrigger</key>
-	<string>import</string>
+	<string>prop</string>
 	<key>uuid</key>
-	<string>087D9DB7-AAF3-4927-8400-CACEA914B84B</string>
+	<string>836E333A-EB6B-432C-B891-7087D969425C</string>
 </dict>
 </plist>

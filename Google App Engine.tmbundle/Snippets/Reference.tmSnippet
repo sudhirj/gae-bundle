@@ -3,16 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>from google.appengine.ext import db
-from google.appengine.api import users
-from google.appengine.api import memcache</string>
+	<string>db.ReferenceProperty(${1:model},collection_name='${2:${1}_set}')</string>
 	<key>name</key>
-	<string>Import All</string>
+	<string>Reference</string>
 	<key>scope</key>
 	<string>source.python</string>
 	<key>tabTrigger</key>
-	<string>import</string>
+	<string>prop</string>
 	<key>uuid</key>
-	<string>087D9DB7-AAF3-4927-8400-CACEA914B84B</string>
+	<string>76961E46-E4B3-4D33-B75F-B2529C036CC0</string>
 </dict>
 </plist>

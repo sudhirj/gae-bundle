@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>users.get_current_user()</string>
+	<string>users.get_current_user()$0</string>
 	<key>name</key>
 	<string>Get Current User</string>
 	<key>scope</key>
