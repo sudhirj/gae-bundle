@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>db.DateTimeProperty()</string>
+	<string>db.DateTimeProperty(auto_now_add = ${1:True})$0</string>
 	<key>name</key>
 	<string>DateTime</string>
 	<key>scope</key>
