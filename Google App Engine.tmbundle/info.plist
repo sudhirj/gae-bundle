@@ -6,9 +6,14 @@
 	<dict>
 		<key>items</key>
 		<array>
+			<string>A9DEB49E-545B-4696-BAE2-2243CDC927C5</string>
+			<string>D38EC4EA-A824-49D2-BB19-74A6C5621CDB</string>
+			<string>087D9DB7-AAF3-4927-8400-CACEA914B84B</string>
+			<string>------------------------------------</string>
+			<string>EE7DADD5-4963-4D3C-96A1-D1739F779039</string>
+			<string>------------------------------------</string>
 			<string>0A1AB911-0712-4744-B4CF-4E3EE5F7780B</string>
 			<string>92D618B5-42BB-4BE7-B031-518C683CCEB0</string>
-			<string>2A5831B3-2AD2-4580-A670-FF5481703B7B</string>
 			<string>3236307F-25CB-49D6-A83B-C205DFD9075E</string>
 		</array>
 		<key>submenus</key>
@@ -17,61 +22,50 @@
 			<dict>
 				<key>items</key>
 				<array>
-					<string>A9DEB49E-545B-4696-BAE2-2243CDC927C5</string>
 					<string>2B615E07-6BE8-4E2F-8746-13A371D0079B</string>
 					<string>A48E9B6F-4B75-4672-A684-A7FB76E43784</string>
 				</array>
 				<key>name</key>
 				<string>Users</string>
 			</dict>
-			<key>2A5831B3-2AD2-4580-A670-FF5481703B7B</key>
-			<dict>
-				<key>items</key>
-				<array>
-					<string>EE7DADD5-4963-4D3C-96A1-D1739F779039</string>
-				</array>
-				<key>name</key>
-				<string>Logging</string>
-			</dict>
 			<key>3236307F-25CB-49D6-A83B-C205DFD9075E</key>
 			<dict>
 				<key>items</key>
 				<array>
-					<string>D38EC4EA-A824-49D2-BB19-74A6C5621CDB</string>
-					<string>------------------------------------</string>
-					<string>AC2DD304-420A-46C9-9E6D-FACDD99BD903</string>
+					<string>054C71F4-40C6-479E-AD3F-35A7BEAE2EE5</string>
+					<string>76961E46-E4B3-4D33-B75F-B2529C036CC0</string>
 					<string>39654C74-A2F5-4A61-92CB-281AFFDD3A3D</string>
 					<string>90EC1F9E-F11A-485B-B1DF-BAAB7C65C214</string>
+					<string>AC2DD304-420A-46C9-9E6D-FACDD99BD903</string>
+					<string>4A1A5B89-D15A-47A9-AE61-44CDC9EEB747</string>
+					<string>F64EEF84-B42A-4D23-9E45-4573A2ED81A4</string>
 					<string>836E333A-EB6B-432C-B891-7087D969425C</string>
 					<string>57117317-33B2-47C9-96CA-F31D10FBF652</string>
-					<string>F64EEF84-B42A-4D23-9E45-4573A2ED81A4</string>
 					<string>C625DF44-62EB-48EA-B7A5-8F3D985983FB</string>
 					<string>105C9993-6A16-4773-B074-A71196DF3D3E</string>
-					<string>4A1A5B89-D15A-47A9-AE61-44CDC9EEB747</string>
 					<string>A3F74D38-BA4C-45BB-80DB-ED6C5D4CF009</string>
-					<string>36BA41D7-0DE9-4906-9F7B-D33316926027</string>
-					<string>76961E46-E4B3-4D33-B75F-B2529C036CC0</string>
-					<string>C0168B40-1FEA-4070-8CBF-46ABD25C8F37</string>
-					<string>054C71F4-40C6-479E-AD3F-35A7BEAE2EE5</string>
-					<string>2F73F68F-572F-45E6-8F54-7B0E632F686A</string>
-					<string>F2ACBF84-99A9-490A-9B93-F36F17F6476F</string>
-					<string>D45D643F-E375-4289-A1E1-416F70BA8F07</string>
-					<string>DC9FC71B-D64E-48BF-BED1-13994B4C25AC</string>
 					<string>8D8CF7D9-BAC0-4EC1-9AFA-63682F4C8351</string>
+					<string>D45D643F-E375-4289-A1E1-416F70BA8F07</string>
 					<string>0F088C74-303A-413B-9884-64AB045CAF18</string>
 					<string>1081CD9D-2984-49DE-A4B9-DCA480A2DEEF</string>
+					<string>2F73F68F-572F-45E6-8F54-7B0E632F686A</string>
 					<string>A736D13A-47AD-4A6C-80D3-5F0EF0BE263A</string>
+					<string>F2ACBF84-99A9-490A-9B93-F36F17F6476F</string>
+					<string>DC9FC71B-D64E-48BF-BED1-13994B4C25AC</string>
+					<string>36BA41D7-0DE9-4906-9F7B-D33316926027</string>
+					<string>C0168B40-1FEA-4070-8CBF-46ABD25C8F37</string>
 				</array>
 				<key>name</key>
-				<string>DB</string>
+				<string>DB Properties</string>
 			</dict>
 			<key>92D618B5-42BB-4BE7-B031-518C683CCEB0</key>
 			<dict>
 				<key>items</key>
 				<array>
-					<string>087D9DB7-AAF3-4927-8400-CACEA914B84B</string>
 					<string>990E225C-207B-4CF5-BED5-94415501F77D</string>
 					<string>596D959D-8BF1-4146-A4D9-D3AC198B6AB4</string>
+					<string>141CDB7E-67F9-4EA0-BBF8-4ED9C3553B73</string>
+					<string>3E7646CA-E1FB-4316-A4E4-1C4FF649E3D4</string>
 				</array>
 				<key>name</key>
 				<string>Imports</string>
@@ -83,7 +77,6 @@
 	<key>ordering</key>
 	<array>
 		<string>A9DEB49E-545B-4696-BAE2-2243CDC927C5</string>
-		<string>98A33779-453C-4556-BE1E-175DC557285F</string>
 		<string>2B615E07-6BE8-4E2F-8746-13A371D0079B</string>
 		<string>D38EC4EA-A824-49D2-BB19-74A6C5621CDB</string>
 		<string>A48E9B6F-4B75-4672-A684-A7FB76E43784</string>
@@ -91,6 +84,7 @@
 		<string>990E225C-207B-4CF5-BED5-94415501F77D</string>
 		<string>141CDB7E-67F9-4EA0-BBF8-4ED9C3553B73</string>
 		<string>596D959D-8BF1-4146-A4D9-D3AC198B6AB4</string>
+		<string>3E7646CA-E1FB-4316-A4E4-1C4FF649E3D4</string>
 		<string>EE7DADD5-4963-4D3C-96A1-D1739F779039</string>
 		<string>57117317-33B2-47C9-96CA-F31D10FBF652</string>
 		<string>AC2DD304-420A-46C9-9E6D-FACDD99BD903</string>

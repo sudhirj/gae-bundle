@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>from google.appengine.ext import db</string>
+	<string>import logging</string>
 	<key>name</key>
-	<string>Import Memcache</string>
+	<string>Import Logging</string>
 	<key>scope</key>
 	<string>source.python</string>
 	<key>tabTrigger</key>
-	<string>immc</string>
+	<string>imlog</string>
 	<key>uuid</key>
-	<string>141CDB7E-67F9-4EA0-BBF8-4ED9C3553B73</string>
+	<string>3E7646CA-E1FB-4316-A4E4-1C4FF649E3D4</string>
 </dict>
 </plist>

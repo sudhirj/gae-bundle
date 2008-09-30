@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>source.python</string>
 	<key>tabTrigger</key>
-	<string>import</string>
+	<string>imu</string>
 	<key>uuid</key>
 	<string>596D959D-8BF1-4146-A4D9-D3AC198B6AB4</string>
 </dict>
