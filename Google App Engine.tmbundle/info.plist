@@ -2,6 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>deleted</key>
+	<array>
+		<string>E1966FE3-4B65-419A-85CA-4447BC63ECAD</string>
+	</array>
 	<key>mainMenu</key>
 	<dict>
 		<key>items</key>
@@ -15,6 +19,7 @@
 			<string>0A1AB911-0712-4744-B4CF-4E3EE5F7780B</string>
 			<string>92D618B5-42BB-4BE7-B031-518C683CCEB0</string>
 			<string>3236307F-25CB-49D6-A83B-C205DFD9075E</string>
+			<string>D2D47B46-48F6-42A9-93B6-7B2D0B933AD9</string>
 		</array>
 		<key>submenus</key>
 		<dict>
@@ -69,6 +74,15 @@
 				</array>
 				<key>name</key>
 				<string>Imports</string>
+			</dict>
+			<key>D2D47B46-48F6-42A9-93B6-7B2D0B933AD9</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>5425CFEE-9B9F-4DAA-AB49-B49AE1479C47</string>
+				</array>
+				<key>name</key>
+				<string>Response</string>
 			</dict>
 		</dict>
 	</dict>
